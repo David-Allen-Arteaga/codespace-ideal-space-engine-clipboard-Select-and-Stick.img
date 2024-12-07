@@ -55,16 +55,14 @@
 - WORKLOAD_IDENTITY_PROVIDER: #workflow;{{DeviceActionsOptimizer.fxml}}.
 - profiles-filed: ['Domain Emtitled Arial Developments'] #namespace.email.com
 - 'GET': #ash_/iam_/cloudconsole_/--projects_a-z/123456789/locations/global/workloadIdentity/see-negatives-usernames--_/domain_/instantaneous_/
- -'iam-database-pool/providers/my-main-upstream-product-induction  -f -all-providers-identifies_//!_WHAT_TOOLSET_DOES//_update_to_all_your_workload_identity_providers_devices
+- setup: iam-database-pool/providers/my-main-upstream-product-induction  -f -all-providers-identifies_//!_WHAT_TOOLSET_DOES//_update_to_all_your_workload_identity_providers_devices
 
   release: <html #javascript=pages.front/back//https=domain_database.yml</html>
   atomization: -[f] -<.js> masses latencies 
-  setup-build-publish-deploy: 
-	   - 'pck/folders/actions/yields/functional/*encode\decode
-
-	name: 'Setup, Build, Publish, and Deploy'
-  runs-on: "'RAMS'" files in main '/[google.yml]' = 'Yielding Multitasking Latency '
-    environment: 'produced works on automation control of AI'
+  setup-build-publish-deploy:
+      - run-build: '[spock/folders/actions/yields/functional/*encode\decode]--template-builds: 'Setup, Build, Publish, and Deploy',
+      - publishing-pkgs: "'RAMS'" files in main '/[google.yml]' = 'Yielding Multitasking Latency '
+  environment: 'produced works on automation control of AI'
 
     permissions:
       contents: 'read, write, editor, and Superadmin User access'
